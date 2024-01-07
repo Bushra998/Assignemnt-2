@@ -1,0 +1,57 @@
+#outer{
+background-image: url(images.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+text-align: center;
+color: white;
+height: 300px;
+width: 1500px;
+
+
+}
+
+#inner{
+    color: white;
+    height: 900px;
+    border: 2px solid;
+    height: 70px;
+    background-color: none ;
+    text-align: center;
+    padding: 10px;
+}
+#inner1{
+
+        background-image: url(landscape-waterfall_1417-2002.avif);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-align: center;
+        height: 300px;
+        width: 300px;
+
+        }
+#inner2{
+        background-image: url(reflection-lights-mountain-lake-captured-parco-ciani-lugano-switzerland_181624-24209.avif);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-align: center;
+        height: 300px;
+        width: 300px;
+
+}
+#inner3{
+    background-image: url(waterfall-nature-thailand_335224-989.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+
+}
+
+
+
+
